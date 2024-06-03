@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """<b>Hy I can help you find movies.🙂 For any enquiry contact Admin @Jiten_owner"""
+    START_TXT = """<b>Hy I can help you find movies.🙂"""
 
     HELP_TXT = """<b>Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
  
